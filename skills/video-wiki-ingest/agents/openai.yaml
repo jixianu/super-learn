@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: "视频入库到 Wiki"
+  short_description: "下载视频并整理为 wiki 资料"
+  default_prompt: "使用 $video-wiki-ingest 下载一个 YouTube 或 Bilibili URL，保存到对应的 raw/ 目录，并生成转写稿和 wiki 可用的 source note。"

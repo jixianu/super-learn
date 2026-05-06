@@ -1,0 +1,340 @@
+{
+  "main": {
+    "id": "34a1e8eba76f5973",
+    "type": "split",
+    "children": [
+      {
+        "id": "53b188cf557ea0d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eedd06c3e4cae9ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/qi/Documents/code/super-learn/",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "终端：super-learn"
+            }
+          },
+          {
+            "id": "30401185e60cf586",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/qi/Documents/code/super-learn/",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "终端：zsh"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "230b7dfe7b89dd4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b1f7015d84ed791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "354a2f1cb4d8e2da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1aec73fa03175006",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "从 Karpathy 视角看当前知识库最该做的三件事",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "60b794f5771d7965",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "6b654a41a5cba2ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "b2a2a2f033c9d98f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "04ed126ff4a01017",
+    "type": "split",
+    "children": [
+      {
+        "id": "630993a45786c8b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f04ba2f1ca8718f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ideas 的反向链接列表"
+            }
+          },
+          {
+            "id": "0aaf209cfb8e52fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "3454b56d9910029c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e5a228b6dd91dbef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "8c4f122e2338c036",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "e80ca13d06abd326",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 510.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "hide-folders:Show hidden folders": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "6b654a41a5cba2ba",
+  "lastOpenFiles": [
+    "wiki/report/分析维护报告.md",
+    "wiki/report/待补强方向.md",
+    "wiki/report/报告中心.md",
+    "wiki/report/维基关系图谱.md",
+    "wiki/report/维基目录治理报告.md",
+    "wiki/report/主题擅长问题前十.md",
+    "scripts/__pycache__/wiki_maintenance.cpython-312.pyc",
+    "wiki/report/下载区入库巡检.md",
+    "wiki/log.md",
+    "AGENTS.md",
+    "wiki/report/知识空白扫描.md",
+    "wiki/report/主题健康度报告.md",
+    "wiki/report/Analyses 维护报告.md",
+    "wiki/report/Obsidian 关系图谱.md",
+    "wiki/report/概念健康度报告.md",
+    "wiki/analyses/主题索引.md",
+    "wiki/report/Wiki 目录治理报告.md",
+    "wiki/report/Topic擅长问题Top10.md",
+    "wiki/report",
+    "scripts/__pycache__/topic_questions_report.cpython-312.pyc",
+    "scripts/__pycache__/concept_stats.cpython-312.pyc",
+    "wiki/index.md",
+    "wiki/overview.md",
+    "wiki/analyses/topics/AI 时代如何学习 分析主题.md",
+    "wiki/topics/AI时代如何学习.md",
+    "scripts/__pycache__/topic_stats.cpython-312.pyc",
+    "scripts/__pycache__",
+    "raw",
+    "README.md",
+    "未命名.md",
+    "learning-wiki/overview.md",
+    "learning-wiki/log.md",
+    "raw/deep-research/AI Wiki 知识沉淀规则研究.md",
+    "learning-wiki/analyses/archive",
+    "learning-wiki/analyses/topics",
+    "learning-wiki/topics",
+    "raw/weixin/AI Agent自动化操作浏览器的发展与应用/assets/0-02dde411fd0d.jpg",
+    "raw/pdf/D2-19/主会场/AI 时代下的设计师终端探索-布颜/AI 时代下的设计师终端探索-布颜/pages/page-0003.png",
+    "raw/pdf/D2-19/主会场/AI 时代下的设计师终端探索-布颜/AI 时代下的设计师终端探索-布颜/pages/page-0002.png",
+    "raw/pdf/D2-19/主会场/AI 时代下的设计师终端探索-布颜/AI 时代下的设计师终端探索-布颜/pages/page-0001.png",
+    "raw/pdf/D2-19/主会场/AI 时代下的设计师终端探索-布颜/pages/page-0001.png",
+    "assets/knowledge-base-architecture.png",
+    "raw/weixin/AI驱动：从运营行为到自动化用例的智能化实践｜得物技术/assets/opqv3ix6k9e4e64zzo7uiqe3zblwiojfmt7u70m59ys1ylfk-htu6ra8v_lawqj1p4olujpdxlfvbtrm-08a586fecd81.png",
+    "raw/weixin/AI驱动：从运营行为到自动化用例的智能化实践｜得物技术/assets/640-ca1be12c8815.gif",
+    "raw/weixin/AI驱动：从运营行为到自动化用例的智能化实践｜得物技术/assets/640-bf53e507455d.png",
+    "raw/weixin/AI驱动：从运营行为到自动化用例的智能化实践｜得物技术/assets/640-83dbd56fc47c.png",
+    "未命名.canvas"
+  ]
+}

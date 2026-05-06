@@ -1,0 +1,104 @@
+{
+  "recentFiles": [
+    {
+      "basename": "分析维护报告",
+      "path": "wiki/report/分析维护报告.md"
+    },
+    {
+      "basename": "待补强方向",
+      "path": "wiki/report/待补强方向.md"
+    },
+    {
+      "basename": "报告中心",
+      "path": "wiki/report/报告中心.md"
+    },
+    {
+      "basename": "下载区入库巡检",
+      "path": "wiki/report/下载区入库巡检.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "AGENTS",
+      "path": "AGENTS.md"
+    },
+    {
+      "basename": "知识空白扫描",
+      "path": "wiki/report/知识空白扫描.md"
+    },
+    {
+      "basename": "主题健康度报告",
+      "path": "wiki/report/主题健康度报告.md"
+    },
+    {
+      "basename": "主题索引",
+      "path": "wiki/analyses/主题索引.md"
+    },
+    {
+      "basename": "AI 时代如何学习 分析主题",
+      "path": "wiki/analyses/topics/AI 时代如何学习 分析主题.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "下载区清理报告",
+      "path": "wiki/report/下载区清理报告.md"
+    },
+    {
+      "basename": "下载区入口",
+      "path": "wiki/report/下载区入口.md"
+    },
+    {
+      "basename": "Harness Engineering",
+      "path": "wiki/topics/Harness Engineering.md"
+    },
+    {
+      "basename": "SKILL",
+      "path": "skills/pdf-wiki-ingest/SKILL.md"
+    },
+    {
+      "basename": "2026-04-23 AI 时代学习的能力结构",
+      "path": "wiki/analyses/2026-04-23 AI 时代学习的能力结构.md"
+    },
+    {
+      "basename": "Scripts 目录导航",
+      "path": "wiki/report/Scripts 目录导航.md"
+    },
+    {
+      "basename": "SKILL",
+      "path": "skills/video-wiki-ingest/SKILL.md"
+    },
+    {
+      "basename": "SKILL",
+      "path": "skills/wiki-maintenance/SKILL.md"
+    },
+    {
+      "basename": "SKILL",
+      "path": "skills/url-to-markdown/SKILL.md"
+    },
+    {
+      "basename": "【第3506期】开发者专用的 AI 提示词使用指南",
+      "path": "wiki/sources/【第3506期】开发者专用的 AI 提示词使用指南.md"
+    },
+    {
+      "basename": "knowledge-base-architecture",
+      "path": "assets/knowledge-base-architecture.png"
+    },
+    {
+      "basename": "【D2 演讲实录】从上下文工程到 Harness Engineering",
+      "path": "wiki/sources/【D2 演讲实录】从上下文工程到 Harness Engineering.md"
+    },
+    {
+      "basename": "【QClient-前端】2.艾瑞坤《GPT结合前端工程化实现智能研发提效》",
+      "path": "wiki/sources/【QClient-前端】2.艾瑞坤《GPT结合前端工程化实现智能研发提效》.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

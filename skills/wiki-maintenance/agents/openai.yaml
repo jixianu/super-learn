@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: "Wiki 维护"
+  short_description: "巡检、评分并维护知识库"
+  default_prompt: "使用 $wiki-maintenance 巡检 raw/download、检测 wiki 空白、评估主题健康度、检查目录用途、刷新 Obsidian 图谱，并把结果写入 wiki/report。"

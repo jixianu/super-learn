@@ -1,0 +1,11 @@
+{
+  "cssTheme": "",
+  "interfaceFontFamily": "Microsoft YaHei",
+  "textFontFamily": "Microsoft YaHei",
+  "monospaceFontFamily": "Microsoft YaHei UI",
+  "accentColor": "#55d6f7",
+  "enabledCssSnippets": [
+    "custom"
+  ],
+  "theme": "moonstone"
+}

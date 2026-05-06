@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: "URL 转 Markdown"
+  short_description: "把网页保存为本地 Markdown"
+  default_prompt: "使用 $url-to-markdown 打开一个 URL，保存渲染后的 HTML，下载页面图片，并转换为可读的 UTF-8 Markdown。"

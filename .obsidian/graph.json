@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "path:\"wiki\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"wiki/topics\"",
+      "color": {
+        "a": 1,
+        "rgb": 10898218
+      }
+    },
+    {
+      "query": "path:\"wiki/analyses/topics\"",
+      "color": {
+        "a": 1,
+        "rgb": 13076522
+      }
+    },
+    {
+      "query": "path:\"wiki/analyses\"",
+      "color": {
+        "a": 1,
+        "rgb": 8215462
+      }
+    },
+    {
+      "query": "path:\"wiki/sources\"",
+      "color": {
+        "a": 1,
+        "rgb": 5667486
+      }
+    },
+    {
+      "query": "path:\"wiki/report\"",
+      "color": {
+        "a": 1,
+        "rgb": 12606299
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.49908595282357276,
+  "close": true
+}
