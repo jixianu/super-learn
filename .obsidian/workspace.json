@@ -46,7 +46,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "终端：super-learn"
+              "title": "终端：zsh"
             }
           },
           {
@@ -90,9 +90,33 @@
               "icon": "terminal",
               "title": "终端：zsh"
             }
+          },
+          {
+            "id": "564622f3b7abc43a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/topics/AI时代如何学习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AI时代如何学习"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,8 +311,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6b654a41a5cba2ba",
+  "active": "354a2f1cb4d8e2da",
   "lastOpenFiles": [
+    "wiki/topics/AI时代如何学习.md",
+    "2026-06-05 1.md",
+    "2026-06-05.md",
     "wiki/report/分析维护报告.md",
     "wiki/report/待补强方向.md",
     "wiki/report/报告中心.md",
@@ -313,15 +340,12 @@
     "wiki/index.md",
     "wiki/overview.md",
     "wiki/analyses/topics/AI 时代如何学习 分析主题.md",
-    "wiki/topics/AI时代如何学习.md",
     "scripts/__pycache__/topic_stats.cpython-312.pyc",
     "scripts/__pycache__",
     "raw",
     "README.md",
     "未命名.md",
     "learning-wiki/overview.md",
-    "learning-wiki/log.md",
-    "raw/deep-research/AI Wiki 知识沉淀规则研究.md",
     "learning-wiki/analyses/archive",
     "learning-wiki/analyses/topics",
     "learning-wiki/topics",

@@ -94,3 +94,5 @@ sources:
 - [[AI 时代什么能力会升值，什么能力会商品化]]
 - [[成人在 AI 时代的任务驱动学习系统]]
 - [[儿童与家庭场景的分龄 AI 使用边界]]
+- [mp.weixin.qq.com/s/BSaDC7-OysAMZk6AAm9F6Q](https://mp.weixin.qq.com/s/BSaDC7-OysAMZk6AAm9F6Q)
+- [AI时代，“精英阶层”正在如何重构教育？ - YouTube](https://www.youtube.com/watch?v=UU-VfbWbvV0)
